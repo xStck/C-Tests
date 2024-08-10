@@ -1,0 +1,10 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=44fbfc06_002Dbe55_002D4eca_002Da58d_002Db6887b9221e0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="StringHelperTests" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::FA596A71-68C7-42D7-8AE6-E14661B0A346::net8.0::Exercises.Tests.StringHelperTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FA596A71-68C7-42D7-8AE6-E14661B0A346::net8.0::Exercises.Tests.ListHelperTests.FilterOddNumber_ForListOfNumbers_ReturnsEvenNumbersOnly&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FA596A71-68C7-42D7-8AE6-E14661B0A346::net8.0::Exercises.Tests.ValidatorTests.ValidateOverlapping_ForOverlappingDateRanges_ReturnsFalse&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FA596A71-68C7-42D7-8AE6-E14661B0A346::net8.0::Exercises.Tests.ValidatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::FA596A71-68C7-42D7-8AE6-E14661B0A346::net8.0::Exercises.Tests.ListHelperTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

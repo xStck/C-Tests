@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=190a7d88_002D51bb_002D4129_002Dac68_002D76425a7cef4e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="GetAll_WithQueryParameters_ReturnsOkResult" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.RestaurantControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.AccountControllerTests.RegisterUser_ForValidModel_ReturnsOk&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.AccountControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.StartupTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.ValidatorTests.RestaurantQueryValidatorTests.Validate_ForCorrectModel_ReturnsSuccess&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.ValidatorTests.RestaurantQueryValidatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.ValidatorTests.RegisterUserDtoValidatorTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.Controllers.RestaurantControllerTests&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.Controllers.DishControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=25aa48a7_002D98df_002D4a11_002D8c8a_002Dc3c5ff094c1d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Delete_ForInvalidRestaurantId_ThrowsNotFoundException" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::D64C18A1-A716-4D58-A499-F9A6F7885A40::net7.0::RestaurantAPI.IntegrationTests.Controllers.DishControllerTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
